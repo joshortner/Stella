@@ -1,0 +1,3 @@
+[submodule "Stella/lib/OpenCL-CLHPP"]
+	path = Stella/lib/OpenCL-CLHPP
+	url = https://github.com/KhronosGroup/OpenCL-CLHPP.git
