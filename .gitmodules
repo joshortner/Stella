@@ -1,3 +1,21 @@
 [submodule "Stella/lib/OpenCL-CLHPP"]
 	path = Stella/lib/OpenCL-CLHPP
 	url = https://github.com/KhronosGroup/OpenCL-CLHPP.git
+[submodule "Stella/lib/box2d"]
+	path = Stella/lib/box2d
+	url = https://github.com/erincatto/box2d.git
+[submodule "Stella/lib/entt"]
+	path = Stella/lib/entt
+	url = https://github.com/skypjack/entt.git
+[submodule "Stella/lib/glfw"]
+	path = Stella/lib/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "Stella/lib/glm"]
+	path = Stella/lib/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "Stella/lib/stb"]
+	path = Stella/lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "Stella/lib/tinyobjloader"]
+	path = Stella/lib/tinyobjloader
+	url = https://github.com/tinyobjloader/tinyobjloader.git
